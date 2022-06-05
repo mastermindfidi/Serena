@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['919536476115']
-global.premium = ['919536476115']
-global.ownernomer = '919536476115'
-global.ownername = '👨🏻‍💻 CHIRAG YOUTUBER 👨🏻‍💻'
-global.botname = 'CHIRAG YOUTUBER 🥵'
-global.footer = '👨🏻‍💻❤️ CHIRAG YOUTUBER ❤️👨🏻‍💻'
-global.ig = 'https://instagram.com/chirag_youtuber_official'
+global.owner = ['918601600591']
+global.premium = ['918601600591']
+global.ownernomer = '918601600591'
+global.ownername = '👨🏻‍💻 𝙎𝙖𝙝𝙞𝙡 👨🏻‍💻'
+global.botname = '𝙎𝙚𝙧𝙚𝙣𝙖🥵'
+global.footer = '👨🏻‍💻❤️ 𝙎𝙖𝙝𝙞𝙡 ❤️👨🏻‍💻'
+global.ig = 'https://instagram.com/_mastermind_ash_?igshid=YmMyMTA2M2Y='
 global.region = 'CHICAGO CITY , California, USA'
-global.sc = 'https://github.com/LOSTHACKEROFC/TINA'
+global.sc = 'https://github.com/sahilteamx/Serena'
 global.myweb = 'https://youtube.com/c/chiragyoutuber'
 global.packname = 'Gojo-Satoru'
-global.author = '👨🏻‍💻 CHIRAG YOUTUBER 👨🏻‍💻'
+global.author = '👨🏻‍💻 𝙎𝙖𝙝𝙞𝙡 👨🏻‍💻'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
