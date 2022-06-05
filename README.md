@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://telegra.ph/CHIRAG-YOUTBER-06-05" alt="nz" width="350"/>
+<img src="gojo.jpg" alt="nz" width="350"/>
 </p>
 
-## Gojo-Satoru
+## TINA
 
 > <a href="https://youtu.be/c/chiragyoutuber"><img src="https://img.shields.io/badge/CHANNEL-SUBSCRIBE-NOW-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/chiragyoutuber" /><br>
 
