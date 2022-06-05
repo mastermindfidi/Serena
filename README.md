@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.jpg" alt="CHIRAG YOUTUBER" width="270" />
+<img src="logo.jpg" alt="CHIRAG YOUTUBER" width="450" />
 
 </p>
 
