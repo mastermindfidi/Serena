@@ -3356,7 +3356,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Daijobka sempai?😄
+┌┤✑  THIS IS CHIRAG YOUTUBER BOT😄
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
@@ -3763,7 +3763,7 @@ case 'allmenu': {
 ┃╠${prefix}masasubur (indo)
 ┃╠${prefix}zodiak (indo)
 ┃╠${prefix}shio (indo)
-┃╚═══════✍︎𝑁𝑒𝑥𝑢𝑠𝑁𝑤
+┃╚═══════✍︎𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍
 ┗━「 *Created By ${ownername}*  𖠌」━⭓`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
