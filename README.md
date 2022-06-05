@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://i.ibb.co/sbP8nX6/gojo.png](https://i.ibb.co/sbP8nX6/gojo.png))"alt="nz" width="350"/>
+<img src="(https://telegra.ph/nz-06-05)"alt="nz" width="350"/>
 </p>
 
 ## TINA
