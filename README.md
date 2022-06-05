@@ -1,5 +1,6 @@
 <p align="center">
-<img src="(https://telegra.ph/nz-06-05)"alt="nz" width="350"/>
+<img src="logo.jpg" alt="CHIRAG YOUTUBER" width="170" />
+
 </p>
 
 ## TINA
