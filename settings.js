@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              TINA 𝓫𝔂 CHIRAG YOUTUBER
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -23,7 +23,7 @@ global.owner = ['919536476115']
 global.premium = ['919536476115']
 global.ownernomer = '919536476115'
 global.ownername = '👨🏻‍💻 CHIRAG YOUTUBER 👨🏻‍💻'
-global.botname = 'CHIRAG YOUTUBER 🥵'
+global.botname = '🥵˜”*°• TINA BOTZ •°*”˜ 🥵'
 global.footer = '👨🏻‍💻❤️ CHIRAG YOUTUBER ❤️👨🏻‍💻'
 global.ig = 'https://instagram.com/chirag_youtuber_official'
 global.region = 'CHICAGO CITY , California, USA'
