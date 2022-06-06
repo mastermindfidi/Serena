@@ -5,7 +5,7 @@
 
 ## TINA
 
-> <a href="https://youtu.be/c/chiragyoutuber"><img src="https://img.shields.io/badge/CHANNEL-SUBSCRIBE-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://youtube.com/c/chiragyoutuber"><img src="https://img.shields.io/badge/CHANNEL-SUBSCRIBE-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 > [Automated Multi Device whatsapp bot created](https://github.com/LOSTHACKEROFC/TINA) by [CHIRAG YOUTUBER 🥵](github.com/LOSTHACKEROFC)
 
