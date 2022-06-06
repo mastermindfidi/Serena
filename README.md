@@ -1,6 +1,6 @@
 <p align="center">
 > <a href="https://youtu.be/ko8d0w_qtWA"><img src="logo.jpg" alt="CHIRAG YOUTUBER" width="450" />
-
+<a href="https://youtube.com/c/chiragyoutuber"><img src="logo.jpg" alt="CHIRAG YOUTUBER" width="350" />
 </p>
 
 ## TINA
