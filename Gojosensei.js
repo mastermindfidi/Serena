@@ -3356,7 +3356,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  THIS IS CHIRAG YOUTUBER BOT😄
+┌┤✑  THIS IS TINA BOTz😄
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
@@ -3763,7 +3763,7 @@ case 'allmenu': {
 ┃╠${prefix}masasubur (indo)
 ┃╠${prefix}zodiak (indo)
 ┃╠${prefix}shio (indo)
-┃╚═══════✍︎𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍
+┃╚═══════✍︎˜”*°• TINA BOTZ •°*”˜
 ┗━「 *Created By ${ownername}*  𖠌」━⭓`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -4176,8 +4176,8 @@ var unicorn = await getBuffer(picak+'Developer')
 await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 Thanks to Me (👨🏻‍💻 CHIRAG YOUTUBER 👨🏻‍💻)
 CHIRAG YOUTUBER(For helping me to deploy qr in replit and answered my every doubts regard this project)
-DGXeon ( 45% Credits goes to him ,in this script)
-And Again Me (CHIRAG YOUTUBER 🥵 😈) 🐦 Who Helped Assemble This Sexy Script Don't forget to subscribe youtube channel 😁 youtube.com/c/chiragyoutuber !!!`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
+LOST HACKER ( 45% Credits goes to him ,in this script)
+And Again Me (CHIRAG YOUTUBER 🥵 😈) 🐦 Who Helped Assemble This Sexy Script Don't forget to subscribe youtube channel 😁 youtube.com/c/chiragyoutuber !!! instagram 👀 instagram.com/chirag__youtuber author 👨🏻‍💻 wa.me/+919536476115`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
             default:
                 if (budy.startsWith('=>')) {
