@@ -16,7 +16,7 @@
 
 </br>
 
-<a href="https://github.com/sahilteamx/Serena"><img title="Author" src="https://img.shields.io/badge/Author-sahilteamx-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/sahilteamx/Serena"><img title="Author" src="https://img.shields.io/badge/Author-𝙎𝙖𝙝𝙞𝙡-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/sahilteamx/Serena"><img title="Stars" src="https://img.shields.io/github/stars/sahilteamx/Serena?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/sahilteamx/Serena/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sahilteamx/Serena?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/sahilteamx/Serena/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sahilteamx/Serena?label=watchers&color=54aeff&style=flat-square" /></a> <br>
