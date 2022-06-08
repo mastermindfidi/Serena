@@ -28,7 +28,7 @@ global.footer = '👨🏻‍💻❤️ 𝙎𝙖𝙝𝙞𝙡 ❤️👨🏻‍�
 global.ig = 'https://instagram.com/_mastermind_ash_?igshid=YmMyMTA2M2Y='
 global.region = 'CHICAGO CITY , California, USA'
 global.sc = 'https://github.com/sahilteamx/Serena'
-global.myweb = 'https://youtube.com/c/chiragyoutuber'
+global.myweb = 'https://youtube.com/channel/UCLuR4JkvjkqQT8NebAHqW0Q'
 global.packname = 'Gojo-Satoru'
 global.author = '👨🏻‍💻 𝙎𝙖𝙝𝙞𝙡 👨🏻‍💻'
 global.sessionName = 'session'
